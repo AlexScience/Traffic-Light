@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "PWmbs708DXMvabipYmowzpr3d+L0FNDap3Pca4KGxlHg7Ut55ro7Zr7CGQ/a3gRVoWdvrRgLGOMAGzT1QESnLg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ritmh\\OneDrive\\Рабочий стол\\Homework_TrafficLight\\Homework_TrafficLight\\Homework_TrafficLight.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ritmh\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\ritmh\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\ritmh\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\ritmh\\.nuget\\packages\\system.threading.timer\\4.3.0\\system.threading.timer.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

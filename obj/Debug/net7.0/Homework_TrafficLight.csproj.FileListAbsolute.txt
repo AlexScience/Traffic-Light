@@ -1,0 +1,15 @@
+/Users/alex/RiderProjects/Homework_TrafficLight/Homework_TrafficLight/bin/Debug/net7.0/Homework_TrafficLight
+/Users/alex/RiderProjects/Homework_TrafficLight/Homework_TrafficLight/bin/Debug/net7.0/Homework_TrafficLight.deps.json
+/Users/alex/RiderProjects/Homework_TrafficLight/Homework_TrafficLight/bin/Debug/net7.0/Homework_TrafficLight.runtimeconfig.json
+/Users/alex/RiderProjects/Homework_TrafficLight/Homework_TrafficLight/bin/Debug/net7.0/Homework_TrafficLight.dll
+/Users/alex/RiderProjects/Homework_TrafficLight/Homework_TrafficLight/bin/Debug/net7.0/Homework_TrafficLight.pdb
+/Users/alex/RiderProjects/Homework_TrafficLight/Homework_TrafficLight/obj/Debug/net7.0/Homework_TrafficLight.csproj.AssemblyReference.cache
+/Users/alex/RiderProjects/Homework_TrafficLight/Homework_TrafficLight/obj/Debug/net7.0/Homework_TrafficLight.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alex/RiderProjects/Homework_TrafficLight/Homework_TrafficLight/obj/Debug/net7.0/Homework_TrafficLight.AssemblyInfoInputs.cache
+/Users/alex/RiderProjects/Homework_TrafficLight/Homework_TrafficLight/obj/Debug/net7.0/Homework_TrafficLight.AssemblyInfo.cs
+/Users/alex/RiderProjects/Homework_TrafficLight/Homework_TrafficLight/obj/Debug/net7.0/Homework_TrafficLight.csproj.CoreCompileInputs.cache
+/Users/alex/RiderProjects/Homework_TrafficLight/Homework_TrafficLight/obj/Debug/net7.0/Homework_TrafficLight.dll
+/Users/alex/RiderProjects/Homework_TrafficLight/Homework_TrafficLight/obj/Debug/net7.0/refint/Homework_TrafficLight.dll
+/Users/alex/RiderProjects/Homework_TrafficLight/Homework_TrafficLight/obj/Debug/net7.0/Homework_TrafficLight.pdb
+/Users/alex/RiderProjects/Homework_TrafficLight/Homework_TrafficLight/obj/Debug/net7.0/Homework_TrafficLight.genruntimeconfig.cache
+/Users/alex/RiderProjects/Homework_TrafficLight/Homework_TrafficLight/obj/Debug/net7.0/ref/Homework_TrafficLight.dll
